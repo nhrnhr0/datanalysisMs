@@ -1,0 +1,8 @@
+certifi==2021.10.8
+charset-normalizer==2.0.10
+idna==3.3
+panda==0.3.1
+pip==21.3.1
+requests==2.27.1
+setuptools==56.0.0
+urllib3==1.26.8
